@@ -6,13 +6,12 @@
 💬 Ask me about<br>
 ⚡ Fun fact
 # 📊 GitHub Stats:
-<img align="left" width="47%" src="https://github-README-stats.vercel.app/api?username=Kevin-Vivas&theme=dark&show_icons=true" /><br>
-
-<img align="left" width="47%" src="https://github-README-stats.vercel.app/api/top-langs/?username=Kevin-Vivas&layout=compact" /><br>
+<img align="center" width="47%" src="https://github-README-stats.vercel.app/api?username=Kevin-Vivas&theme=dark&show_icons=true" /><ar>
+<img align="center" width="47%" src="https://github-README-stats.vercel.app/api/top-langs/?username=Kevin-Vivas&layout=compact" /><ar>
 
 
 # 💻 Tech Stack:<br>
-[![My Skills](https://skillicons.dev/icons?i=c,py,v,md&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,py,v,md&theme=light)](https://skillicons.dev)<ar>
 
 
 

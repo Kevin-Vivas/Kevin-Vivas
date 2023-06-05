@@ -6,8 +6,8 @@
 💬 Ask me about<br>
 ⚡ Fun fact
 # 📊 GitHub Stats:
-<img align="center" width="47%" src="https://github-README-stats.vercel.app/api?username=Kevin-Vivas&theme=dark&show_icons=true" /><ar>
-<img align="center" width="47%" src="https://github-README-stats.vercel.app/api/top-langs/?username=Kevin-Vivas&layout=compact" /><ar>
+<img align="center" width="47%" src="https://github-README-stats.vercel.app/api?username=Kevin-Vivas&theme=chartreuse-dark" /><ar>
+<img align="center" width="47%" src="https://github-README-stats.vercel.app/api/top-langs/?username=Kevin-Vivas&theme=chartreuse-dark&layout=compact&" /><ar>
 
 
 # 💻 Tech Stack:<br>
@@ -19,7 +19,6 @@
 # 💰 **You can help me by Donating**
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/Vivas143) 
   
-
 
 
 

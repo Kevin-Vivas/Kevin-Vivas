@@ -6,8 +6,9 @@
 💬 Ask me about<br>
 ⚡ Fun fact
 # 📊 GitHub Stats:
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kevin-Vivas&theme=dark&show_icons=true" /><br>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Vivas&layout=compact" /><br>
+<img align="left" width="47%" src="https://github-README-stats.vercel.app/api?username=Kevin-Vivas&theme=dark&show_icons=true" /><br>
+
+<img align="left" width="47%" src="https://github-README-stats.vercel.app/api/top-langs/?username=Kevin-Vivas&layout=compact" /><br>
 
 
 # 💻 Tech Stack:<br>

@@ -17,12 +17,7 @@
 
 
 # 💰 **You can help me by Donating**
-<div style="display: inline-block;">
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/Vivas143)
-</div>
-<div style="display: inline-block;">
-  <a href="image/QR_nequi_numero.png"><img src="image/boton_nequi.png" alt="PayPal" width="90"></a>
-</div>
+<a href="https://www.paypal.com/paypalme/Vivas143"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Nequi" width="100"></a> <a href="image/QR_nequi_numero.png"><img src="image/boton_nequi.png" alt="Nequi" width="94"></a>
 
  
   
